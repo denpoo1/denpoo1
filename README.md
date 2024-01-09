@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Data-Structures-and-Algorithms](git@github.com:denpoo1/Data-Structures-and-Algorithms.git)
 
-- 🌱 I’m currently learning **Data-Structures, Algorithms, Kafka, MongoDB**
+- 🌱 I’m currently learning **Kafka, Kubernates, ArgoCD, Helm, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/denpoo1](https://github.com/denpoo1)
 
@@ -26,6 +26,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d_nWfpG-EF831-yXwx64HQ.png" alt="argocd" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" alt="kubernates" width="40" height="40"/>
+  </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
   </a>
@@ -71,6 +77,8 @@
   </a>
 </p>
 
+<h3 align="left">Statistic:</h3>
+<p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denpoo1&show_icons=true&locale=en&layout=compact" alt="denpoo1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denpoo1&show_icons=true&locale=en" alt="denpoo1" /></p>
